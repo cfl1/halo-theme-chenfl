@@ -1,11 +1,11 @@
-id: LIlGG_Sakura
-name: Sakura
+id: CHENFL_chenfl
+name: chenfl
 author:
-  name: LIlGG
-  website: https://lixingyong.com
-description: Halo 版本的樱花🌸主题
+  name: CHENFL
+  website: https://chenfl.cn
+description: Halo 版本的主题（临摹）
 logo:
-website: https://github.com/LIlGG/halo-theme-sakura
-repo: https://github.com/LIlGG/halo-theme-sakura
-version: 1.3.4
+website: https://github.com/cfl1/halo-theme-chenfl
+repo: https://github.com/cfl1/halo-theme-chenfl
+version: 1.0.0
 require: 1.5.0
